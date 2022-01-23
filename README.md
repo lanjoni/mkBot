@@ -28,7 +28,7 @@ Caso deseje alterar o código de acordo com suas preferências, basta baixar o a
 
 Agora é só executar o bot e aproveitar! 😉
 
-##
+---
 
 This is a bot, programmed in Python, to listen to music on Discord!
 
