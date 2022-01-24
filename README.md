@@ -28,6 +28,15 @@ Caso deseje alterar o código de acordo com suas preferências, basta baixar o a
 
 Agora é só executar o bot e aproveitar! 😉
 
+| Comandos                      | Funcionalidade                             |
+| ----------------------------- | ---------------------------------------- |
+| mk!play | Toca uma música do YouTube |
+| mk!skip          | Pula a atual música que está tocando |
+| mk!queue      | Mostra as músicas na fila        |
+| mk!help        | Comando de ajuda |
+
+Todos os comandos possuem como prefixo "mk" - de mkBot.
+
 ---
 
 This is a bot, programmed in Python, to listen to music on Discord!
@@ -57,5 +66,14 @@ Basically, after starting a music search on YouTube, the bot records the first U
 If you want to change the code according to your preferences, just download the file and change the access token for your own bot! Keep an eye out for "cogs/music.py", as this is exactly where we'll be able to register songs, add a queue, and even skip the sequence.
 
 Now just run the bot and enjoy! 😉
+
+| Commands                      | Functionality                         |
+| ----------------------------- | ---------------------------------------- |
+| mk!play | Play a song from YouTube |
+| mk!skip          | Skip the current song that is playing |
+| mk!queue      | Show the songs in the queue       |
+| mk!help        | Help command |
+
+All commands are prefixed with "mk" - from mkBot.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/gutoso?style=social"> ⠀<img alt="Twitch Status" src="https://img.shields.io/twitch/status/holly1v4?style=social"> ⠀<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gutolanjoni?style=social">
