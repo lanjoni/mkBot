@@ -102,7 +102,7 @@ class music(commands.Cog):
             else:
                 embedvc = discord.Embed(
                     colour= 32768,#verde
-                    description = f"Você adicionou a música **{song['title']}** à fila! \n\n Desenvolvido por holly!"
+                    description = f"Você adicionou a música **{song['title']}** à fila! \n\n Desenvolvido por @gutoso no GitHub!"
                 )
                 await ctx.send(embed=embedvc)
                 self.music_queue.append([song, voice_channel])
