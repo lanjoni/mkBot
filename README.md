@@ -41,7 +41,7 @@ Todos os comandos possuem como prefixo "mk" - de mkBot.
 
 This is a bot, programmed in Python, to listen to music on Discord!
 
-You can easily add the entire directory with the files in your favorite text editor (I like to use VSCode - and I recommend it -, but use the one you prefer), however, it would be necessary to add some "dependencies", and for that, after adding all the necessary files (installing Python from the official website - if you are on Windows - and its extension in VSCode), open your terminal (through VSCode, if you are using it) and run the following commands:
+You can easily add the entire directory with the files in your favorite text editor (I like to use VSCode - and I recommend it -, but use the one you prefer), however, it would be necessary to add some "dependencies", and for that, after adding all the necessary files (installing Python from the official website - if you are on Windows - and its extension in VSCode), open your terminal (through VSCode, if you are using it) and run the following commands: 
 
 ```
 pip3 install discord
