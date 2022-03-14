@@ -2,7 +2,7 @@
 
 Este é um bot, programado em Python, para ouvir músicas no Discord!
 
-Você pode facilmente adicionar todo o diretório com os arquivos em seu editor de texto favorito (eu gosto de utilizar o VSCode - e recomendo-, mas utilize o de sua preferência), porém, seria necessário adicionar algumas "dependências", e para isso, após adicionar todos os arquivos necessários (instalar o Python pelo site oficial - caso esteja no Windows - e sua extensão no VSCode), abra seu terminal (pelo VSCode, caso esteja utilizando) e execute os seguintes comandos:
+Você pode facilmente adicionar todo o diretório com os arquivos em seu editor de texto favorito (eu gosto de utilizar o VSCode - e recomendo-, mas utilize o de sua preferência), porém, seria necessário adicionar algumas "dependências", e para isso, após adicionar todos os arquivos necessários (instalar o Python pelo site oficial - caso esteja no Windows - e sua extensão no VSCode), abra seu terminal (pelo VSCode, caso esteja utilizando) e execute os seguintes comandos: 
 
 ```
 pip3 install discord
